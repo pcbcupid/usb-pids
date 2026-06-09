@@ -901,3 +901,6 @@ PID    | Product name
 0x837D | TEILE Elektronik MIB GmbH - DSP - Vendor Specific Interface (alternative mode)
 0x837E | MeXkey3
 0x837F | MeXkey3 (recovery mode)
+0x8380 | PCBCupid Glyph C5 - Arduino
+0x8381 | PCBCupid Glyph C5 - CircuitPython/MicroPython
+0x8382 | PCBCupid Glyph C5 - UF2 Bootloader
